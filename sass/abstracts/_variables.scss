@@ -1,0 +1,31 @@
+/*
+COLORS:
+
+Tomato: hsl(9, 100%, 64%)
+Light:  hsl(9, 97%, 69%)
+Lighter:hsl(9, 100%, 87%)
+*/
+
+$color-gray-light1:#f7f7f7;
+$color1:rgb(30, 35, 97);
+$color2:rgb(61, 92, 175);
+
+$color-secondary-light:#ffb900;
+$color-secondary-dark:#ff7730;
+
+$color-tertiary-light:#7edf6f;
+$color-tertiary-dark:#28b485;
+
+$color-gray:gray;
+$color-grey-light:#eee;
+$color-white:#fff;
+$color-black:rgb(0,0,0);
+
+//FONT
+$defaul-fontsize:1.6rem;
+
+
+//GRID
+$grid-width:114rem;
+$gutter-vertical:8rem;
+$gutter-horizontal:6rem;
